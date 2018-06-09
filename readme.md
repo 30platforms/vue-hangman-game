@@ -13,3 +13,7 @@ npm run serve
 ```
 
 Check out this blog post to learn more about this project ---> [https://www.30platforms.com/building-a-hangman-game-with-vue-js](https://www.30platforms.com/post/building-a-hangman-game-with-vue-js/)
+
+Check out Youtube/30platforms for a full video walkthrough of building this app --> [https://www.youtube.com/watch?v=y4yf5DRJI6k&t=1057s](https://www.youtube.com/watch?v=y4yf5DRJI6k&t=1057s)
+
+Enjoy!
